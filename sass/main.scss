@@ -71,15 +71,17 @@ main {
         border-radius: 100%;
         margin-bottom: 2rem;
       }
-      span {
-        color: $Pale-Blue;
-        font-size: 0.8rem;
-      }
-      h1 {
-        font-size: 2rem;
-        font-weight: 300;
-        color: white;
-        margin-top: 0.3rem;
+      #img-names {
+        span {
+          color: $Pale-Blue;
+          font-size: 0.8rem;
+        }
+        h1 {
+          font-size: 2rem;
+          font-weight: 300;
+          color: white;
+          margin-top: 0.3rem;
+        }
       }
     }
     #category-content {
